@@ -1,5 +1,7 @@
 # ☕ Coffee Sales Dashboard
 
+![Coffee Sales Dashboard](image(16).png)
+
 This project presents an interactive dashboard displaying **coffee shop sales data** collected over a period of **four years**.
 
 ---

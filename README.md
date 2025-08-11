@@ -1,6 +1,7 @@
 # ☕ Coffee Sales Dashboard
 
-![Coffee Sales Dashboard](image(16).png)
+![Coffee Sales Dashboard](https://github.com/khaleedgt/CoffeSalesDashboard/blob/main/Dashboard.png)
+
 
 This project presents an interactive dashboard displaying **coffee shop sales data** collected over a period of **four years**.
 
